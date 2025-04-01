@@ -1,6 +1,6 @@
-# Walmart-Sales-Data-Analysis--SQL-Project
+# Walmart_Sales_Data_Analysis
 ## About
-We are analysing Walmart's sales data. Primary objective is to enhance and optimize sales strategies. Identify high-performing branches and products, analyze the sales patterns of customer behavior will help in optimising the sales strategies.
+Walmart is a good example of the glosary data, hence we are analysing Walmart's sales data. Primary objective is to enhance and optimize sales strategies. Identify high-performing branches and products, analyze the sales patterns of customer behavior will help in optimising the sales strategies.
 The dataset utilized in this project is sourced from the Kaggle Walmart Sales Forecasting Competition.
 
 ## About Data
